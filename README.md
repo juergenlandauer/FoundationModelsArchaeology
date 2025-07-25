@@ -16,7 +16,7 @@ Experiment:
 
 All programs are provided as Google Colab Notebooks. To run, simply click on the "Open in Colab" Button at the top, then click on "Runtime->Run all". If you want to use your own data, make sure you read the top part of the Notebook beforehand and follow the instructions for choosing parameters acoording to your data.
 
-CAUTION: all notebooks require one of the *paid* versions of Colab (as the free version would time out without results). We recommend the Pay-as-you-go version available here: https://colab.research.google.com/signup . This comes at around 11 USD at the time of writing and provides more than enough compute time for running all the experiments.
+CAUTION: all notebooks require one of the *paid* versions of Colab (as the free version would time out without results). We recommend the Pay-as-you-go version available here: https://colab.research.google.com/signup . This currently costs around 11 USD and provides more than enough compute time for running all notebooks and reproducing all the experiments.
 
 The folders also contain links to the data used for the experiments.
 
