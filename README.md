@@ -1,7 +1,8 @@
-# FoundationModelsArchaeology
-Test of foundation models on archaeological features
+# Visual Foundation Models for Archaeological Remote Sensing: A Zero-Shot Approach
 
-The repository contains five sub-folders for each of the five experiments we present:
+This is the repository for supplementary materials on our article on foundation models for archaeological feature detection.
+
+The repository contains five sub-folders for each of the five experiments we present there:
 
 Experiment:
 
