@@ -18,7 +18,7 @@ All programs are provided as Google Colab Notebooks. To run, simply click on the
 
 CAUTION: all notebooks require one of the *paid* versions of Colab (as the free version would time out without results). We recommend the Pay-as-you-go version available here: https://colab.research.google.com/signup . This currently costs around 11 USD and provides more than enough compute time for running all notebooks and reproducing all the experiments.
 
-The folders also contain links to the data used for the experiments.
+The folders also contain links to the data used for the experiments and output data.
 
 Please do not hesitate to contact me at juergen (at) landauer-ai.de if you have any questions or encounter problems.
 
