@@ -1,9 +1,8 @@
-# Automatic potsherd detection in drone (UAV) videos or orthophotos
+# Experiment 5: finding potsherds in drone (UAV) imagery  
 
 This Jupyter Notebook can run on Google Colab (https://colab.google.com) and demonstrate the use of SAM 2.1 (Segment Anything Model) by Meta AI for the automated detection of potsherds in video or images (such as ortophotos).
 
 The test data used here is a set of video frames from a drone video of a site in the Mediterranean. Available for download from  https://www.dropbox.com/scl/fi/u0htcr0kllnohu7hwsfox/DroneVideo.zip?rlkey=zxj171l892fgogi4mo8h5ej8e&st=33q8o1ka&dl=0
-
 
 You can use your own data, too. Simply replace the ZIP file URL in the Notebook with the URL of your own ZIP file (e.g. stored in Google Drive or the like). The ZIP file must contain one or more images in its root folder. No sub-directories!
 
