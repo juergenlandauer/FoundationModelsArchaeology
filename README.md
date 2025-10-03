@@ -1,4 +1,4 @@
-## Update: have a look at our QGIS plugin, too: 
+#### Update: have a look at our QGIS plugin, too: 
 [https://github.com/juergenlandauer/land/edit/main/README.md](https://github.com/juergenlandauer/LandTalk.AI)
 
 # Visual Foundation Models for Archaeological Remote Sensing: A Zero-Shot Approach
