@@ -2,6 +2,7 @@
 [https://github.com/juergenlandauer/land/edit/main/README.md](https://github.com/juergenlandauer/LandTalk.AI)
 
 # Visual Foundation Models for Archaeological Remote Sensing: A Zero-Shot Approach
+Link to article: https://doi.org/10.3390/geomatics5040052
 
 This is the repository for supplementary materials on our article on foundation models for archaeological feature detection. The repository contains five sub-folders for each of the five experiments we present there:
 
